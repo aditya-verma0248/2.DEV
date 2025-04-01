@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+.navbar {
+  width: 100%;
+  height: 85px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 45px;
+  position: relative;
+  left: 100px;
+  cursor: pointer;
+}
+.loghed {
+  color: white;
+  font-size: 35px;
+  position: relative;
+  left: 110px;
+  cursor: pointer;
+}
+.line {
+  height: 53px;
+  width: 5px;
+  background-color: white;
+  position: relative;
+  left: 122px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.loghed2 {
+  color: white;
+  font-size: 35px;
+  position: relative;
+  left: 135px;
+  cursor: pointer;
+}
+.search {
+  width: 300px;
+  height: 40px;
+  position: relative;
+  left: 845px;
+  border-radius: 5px;
+  border: none;
+  padding-left: 10px;
+}
+.CTA1 {
+  width: 200px;
+  height: 40px;
+  background-color: black;
+  border: -13px;
+  border-color: white;
+  color: white;
+  border-radius: 5px;
+  position: relative;
+  left: 855px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.CTA2 {
+  width: 100px;
+  height: 40px;
+  background-color: #4c5fd5;
+  border-radius: 5px;
+  position: relative;
+  left: 866px;
+  border: none;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+}
+.hero {
+  width: 100%;
+  height: 400px;
+  background-color: #dadbf1;
+}
+.search2 {
+  width: 700px;
+  height: 50px;
+  border-radius: 5px;
+  border: none;
+  padding-left: 10px;
+  position: relative;
+  top: 180px;
+  left: 628px;
+  font-size: 20px;
+}
+h1 {
+  font-size: 62px;
+  position: relative;
+  top: 144px;
+  left: 672px;
+  width: 609px;
+}
+.maindiv1{
+  
+}
